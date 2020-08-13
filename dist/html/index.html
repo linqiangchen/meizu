@@ -1,338 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-   
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-
-        body,
-        html {
-            height: 100%;
-            overflow: auto;
-        }
-
-        li {
-            list-style: none;
-        }
-
-        a {
-            text-decoration: none;
-        }
-
-        .con1 {
-
-            width: 1260px;
-            margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            text-align: center;
-        }
-
-        .con1 div {
-            padding: 45px 0;
-        }
-
-        .con1 div img {
-            display: block;
-            width: 130px;
-            height: 130px;
-        }
-
-        .con1 div h2 {
-            line-height: 30px;
-            font-size: 20px;
-            color: #333;
-            font-weight: normal;
-        }
-
-        .con1 div p {
-            font-size: 14px;
-            color: #999;
-
-        }
-
-        .part1 {
-            background-color: #f4f4f4;
-            width: 100%;
-
-            margin: 0 auto;
-        }
-
-        .part1 h2 {
-            font-size: 30px;
-            color: #000;
-            line-height: 100px;
-            font-weight: normal;
-            text-align: center;
-
-        }
-
-        .part1 div {
-            display: block;
-            width: 100%;
-            height: 450px;
-            background: url('../image/part1.jpg')top center no-repeat;
-            margin: 0 auto;
-        }
-
-        .part1 div:hover {
-            opacity: 0.6;
-        }
-
-        .part2 {
-
-            background-color: #f4f4f4;
-            width: 100%;
-            max-width: 1560px;
-            margin: 0 auto;
-            display: flex;
-            text-align: center;
-            justify-content: center;
-        }
-
-        .part2 div {
-            transition: 0.5s;
-            position: relative;
-            width: 615px;
-            height: 510px;
-            padding: 50px 0;
-            background-color: #fff;
-            margin: 10px 5px;
-        }
-
-        .part2 div:hover {
-            box-shadow: 0px 0px 20px #ccc;
-        }
-
-        .part2 img {
-            display: block;
-            width: 460px;
-            height: 460px;
-            margin: 0 auto;
-        }
-
-        .part2 h3 {
-            font-size: 28px;
-            color: #333;
-            font-weight: normal;
-            line-height: 50px;
-        }
-
-        .part2 p {
-            font-size: 18px;
-            color: #333;
-
-            line-height: 30px;
-        }
-
-        .part2 span {
-            font-size: 22px;
-            color: #cc0000;
-        }
-
-        .part2 .label {
-            font-size: 16px;
-            position: absolute;
-            top: 30px;
-            left: 30px;
-            line-height: 60px;
-            text-align: center;
-            width: 60px;
-            height: 60px;
-            border-radius: 50%;
-            background-image: linear-gradient(120deg, #ff3149, #ff64a6);
-            color: #fff;
-        }
-
-        .part3 {
-            background-color: #f4f4f4;
-            width: 100%;
-            max-width: 1560px;
-            margin: 0 auto;
-            display: flex;
-            text-align: center;
-            justify-content: center;
-        }
-
-        .part3 div {
-            padding: 30px 0;
-            transition: 0.5s;
-            width: 303px;
-            background-color: #fff;
-            margin: 0px 5px;
-        }
-
-        .part3 div:hover {
-            box-shadow: 0px 0px 20px #ccc;
-        }
-
-        .part3 img {
-            width: 230px;
-            height: 230px;
-            display: block;
-            margin: auto;
-        }
-
-        .part3 h3 {
-            font-size: 16px;
-            color: #333;
-            font-weight: normal;
-            line-height: 24px;
-        }
-
-        .part3 p {
-            font-size: 14px;
-            color: #999;
-
-            line-height: 20px;
-        }
-
-        .part3 span {
-            font-size: 22px;
-            color: #cc0000;
-        }
-
-        .part4 {
-            background-color: #f4f4f4;
-            width: 100%;
-
-            margin: 0 auto;
-        }
-
-        .part4 h2 {
-            font-size: 30px;
-            color: #000;
-            line-height: 100px;
-            font-weight: normal;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        .part4 div {
-            display: block;
-            width: 100%;
-            height: 450px;
-            background: url('../image/part1-1.jpg')top center no-repeat;
-            margin: 0 auto;
-        }
-
-        .part4 div:hover {
-            opacity: 0.6;
-        }
-
-        .part5 {
-            padding-top: 10px;
-            background-color: #f4f4f4;
-            width: 100%;
-            max-width: 1560px;
-            margin: 0px auto;
-            display: flex;
-            flex-wrap: wrap;
-            text-align: center;
-            justify-content: center;
-        }
-
-        .part5 div {
-            padding: 30px 0;
-            transition: 0.5s;
-            width: 303px;
-            height: 315px;
-            background-color: #fff;
-            margin: 0px 5px 10px 5px;
-        }
-
-        .part5 div:hover {
-            box-shadow: 0px 0px 20px #ccc;
-        }
-
-        .part5 img {
-            width: 230px;
-            height: 230px;
-            display: block;
-            margin: auto;
-        }
-
-        .part5 h3 {
-            font-size: 16px;
-            color: #333;
-            font-weight: normal;
-            line-height: 24px;
-        }
-
-        .part5 p {
-            font-size: 14px;
-            color: #999;
-
-            line-height: 20px;
-        }
-
-        .part5 span {
-            font-size: 22px;
-            color: #cc0000;
-        }
-
-        .part5 .left {
-            height: 375px;
-            padding: 0;
-
-        }
-
-        .part5 .left h3 {
-            font-size: 21px;
-            color: #fff;
-            margin-top: -115px;
-        }
-
-        .part5 .left p {
-            font-size: 14px;
-            color: #fff;
-
-        }
-
-        .part5 .left span {
-            font-size: 24px;
-            color: #ebce6b;
-
-        }
-
-        .part5 .left img {
-
-            width: 303px;
-            height: 100%;
-        }
-
-        .part6 div {
-            display: block;
-            width: 100%;
-            height: 450px;
-            background: url('../image/part6.jpg')top center no-repeat;
-            margin: 0 auto;
-        }
-    </style>
-     <link rel="stylesheet" href="../css/swiper.css">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/swiper.css">
     <link rel="stylesheet" href="../css/header.css">
     <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/main.css">
 </head>
-
 <body>
     <!-- 头部 -->
     <div class="top">
 
         <div class="nav">
+            <a href="../html/index.html">
             <h1>MEIZU</h1>
+        </a>
             <ul>
                 <li class="down">
                     <a href="">手机</a>
                 </li>
                 <li class="down">
-                    <a href="">声学</a>
+                    <a href="../html/list.html">声学</a>
                 </li>
                 <li class="down">
                     <a href="">配件</a>
@@ -356,7 +47,7 @@
                     <a href="">政企定制</a>
                 </li>
                 <li class="down">
-                    <a href="" >APP下载</a>
+                    <a href="">APP下载</a>
                 </li>
 
             </ul>
@@ -367,10 +58,10 @@
             <span class="_user">
                 <img src="../image/user.png" alt="">
                 <div class="user">
-                    <a href="">立即登录</a>
+                    <a href="../html//login.html">立即登录</a>
                     <a href="">立即注册</a>
-                     <a href="">我的订单</a>
-                     <a href="">M码通道</a>
+                    <a href="">我的订单</a>
+                    <a href="">M码通道</a>
                 </div>
             </span>
             <span>
@@ -464,202 +155,441 @@
         <h2>手机</h2>
         <div></div>
     </div>
-    <div class="part2">
-        <div>
-            <span class="label">新色</span>
-            <h3>魅族17</h3>
-            <p>限时赠送壳膜套装</p>
-            <span>￥3699</span>
-            <img src="../image/part2.png" alt="">
-        </div>
-        <div>
-            <span class="label">免息</span>
-            <h3>魅族17</h3>
-            <p>限时赠送壳膜套装</p>
-            <span>￥3699</span>
-            <img src="../image/part2.png" alt="">
+    <div class="wrap">
+        <div class="part2">
+
+            <div>
+                <span class="label">新色</span>
+                <h3>魅族17</h3>
+                <p>限时赠送壳膜套装</p>
+                <span>￥3699</span>
+                <img src="../image/part2.png" alt="">
+            </div>
+            <div>
+                <span class="label">免息</span>
+                <h3>魅族17</h3>
+                <p>限时赠送壳膜套装</p>
+                <span>￥3699</span>
+                <img src="../image/part2.png" alt="">
+            </div>
         </div>
     </div>
-    <div class="part3">
-        <div>
-            <img src="../image/part3.png" alt="">
-            <h3>魅族17航母定制版</h3>
-            <p>以梦为舰 热爱起航</p>
-            <span>￥4299</span>
-        </div>
-        <div>
-            <img src="../image/part3.png" alt="">
-            <h3>魅族17航母定制版</h3>
-            <p>以梦为舰 热爱起航</p>
-            <span>￥4299</span>
-        </div>
-        <div>
-            <img src="../image/part3.png" alt="">
-            <h3>魅族17航母定制版</h3>
-            <p>以梦为舰 热爱起航</p>
-            <span>￥4299</span>
-        </div>
-        <div>
-            <img src="../image/part3.png" alt="">
-            <h3>魅族17航母定制版</h3>
-            <p>以梦为舰 热爱起航</p>
-            <span>￥4299</span>
+    <div class="wrap">
+        <div class="part3">
+            <div>
+                <img src="../image/part3.png" alt="">
+                <h3>魅族17航母定制版</h3>
+                <p>以梦为舰 热爱起航</p>
+                <span>￥4299</span>
+            </div>
+            <div>
+                <img src="../image/part3.png" alt="">
+                <h3>魅族17航母定制版</h3>
+                <p>以梦为舰 热爱起航</p>
+                <span>￥4299</span>
+            </div>
+            <div>
+                <img src="../image/part3.png" alt="">
+                <h3>魅族17航母定制版</h3>
+                <p>以梦为舰 热爱起航</p>
+                <span>￥4299</span>
+            </div>
+            <div>
+                <img src="../image/part3.png" alt="">
+                <h3>魅族17航母定制版</h3>
+                <p>以梦为舰 热爱起航</p>
+                <span>￥4299</span>
+            </div>
         </div>
     </div>
     <div class="part4">
         <h2>魅族声学</h2>
         <div></div>
     </div>
-    <div class="part5">
-        <div class="left">
-            <img src="../image/part5-bg.jpg" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div class="left">
-            <img src="../image/part5-bg1.jpg" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div class="left">
-            <img src="../image/part5-bg2.jpg" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part4.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
+    <div class="wrap">
+        <div class="part5">
+            <a href="../html/list.html"><div class="left">
+                <img src="../image/part5-bg.jpg" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div></a>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div class="left">
+                <img src="../image/part5-bg1.jpg" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div class="left">
+                <img src="../image/part5-bg2.jpg" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part4.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
         </div>
     </div>
     <div class="part4 part6">
         <h2>智能配件</h2>
         <div></div>
     </div>
-    <div class="part5 ">
-        <div class="left">
-            <img src="../image/part6-bg1.jpg" alt="">
-            <h3>Pandaer [17] 夏日系列 壳膜套装</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
+    <div class="wrap">
+        <div class="part5 ">
+            <div class="left">
+                <img src="../image/part6-bg1.jpg" alt="">
+                <h3>Pandaer [17] 夏日系列 壳膜套装</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>Pandaer [17] 夏日系列 壳膜套装</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part6-1.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part6-1.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div class="left">
+                <img src="../image/part6-bg2.jpg" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part6-1.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part6-1.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part6-1.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div class="left">
+                <img src="../image/part6-bg3.jpg" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part6-1.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part6-1.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part6-1.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
         </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>Pandaer [17] 夏日系列 壳膜套装</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
+    </div>
+    <div class="part4 part7">
+        <h2>生活周边</h2>
+        <div></div>
+    </div>
+    <div class="wrap">
+        <div class="part5 ">
+            <div class="left">
+                <img src="../image/part7-bg1.jpg" alt="">
+                <h3>Pandaer [17] 夏日系列 壳膜套装</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>Pandaer [17] 夏日系列 壳膜套装</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div class="left">
+                <img src="../image/part7-bg2.jpg" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div class="left">
+                <img src="../image/part7-bg3.jpg" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
+            <div>
+                <img src="../image/part7.png" alt="">
+                <h3>魅族 HIFI 解码 耳放</h3>
+                <p>高性能DAC芯片</p>
+                <span>￥169</span>
+            </div>
         </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
+    </div>
+    <div class="wrap">
+        <h2>社区热帖</h2>
+
+        <div class="part8">
+            <div>
+                <img src="../image/part8.png" alt="">
+                <p class="count">
+                    <img src="../image/part8-user.jpg" alt="">
+                    <span>小宇先生</span>
+                </p>
+                <p>不只是颜值出众，可谓是秀外慧中</p>
+                <span>魅族17</span>
+            </div>
+            <div>
+                <img src="../image/part8.png" alt="">
+                <p class="count">
+                    <img src="../image/part8-user.jpg" alt="">
+                    <span>小宇先生</span>
+                </p>
+                <p>现在大家对手机拍照质量的需求越来越高，最受关注的就是焦段与画质。</p>
+                <span>魅族17</span>
+            </div>
+            <div>
+                <img src="../image/part8.png" alt="">
+                <p class="count">
+                    <img src="../image/part8-user.jpg" alt="">
+                    <span>小宇先生</span>
+                </p>
+                <p>不只是颜值出众，可谓是秀外慧中</p>
+                <span>魅族17</span>
+            </div>
+            <div>
+                <img src="../image/part8.png" alt="">
+                <p class="count">
+                    <img src="../image/part8-user.jpg" alt="">
+                    <span>小宇先生</span>
+                </p>
+                <p>不只是颜值出众，可谓是秀外慧中</p>
+                <span>魅族17</span>
+            </div>
+            <div>
+                <img src="../image/part8.png" alt="">
+                <p class="count">
+                    <img src="../image/part8-user.jpg" alt="">
+                    <span>小宇先生</span>
+                </p>
+                <p>不只是颜值出众，可谓是秀外慧中</p>
+                <span>魅族17</span>
+            </div>
+            <div>
+                <img src="../image/part8.png" alt="">
+                <p class="count">
+                    <img src="../image/part8-user.jpg" alt="">
+                    <span>小宇先生</span>
+                </p>
+                <p>不只是颜值出众，可谓是秀外慧中</p>
+                <span>魅族17</span>
+            </div>
+            <div>
+                <img src="../image/part8.png" alt="">
+                <p class="count">
+                    <img src="../image/part8-user.jpg" alt="">
+                    <span>小宇先生</span>
+                </p>
+                <p>不只是颜值出众，可谓是秀外慧中</p>
+                <span>魅族17</span>
+            </div>
+            <div>
+                <img src="../image/part8.png" alt="">
+                <p class="count">
+                    <img src="../image/part8-user.jpg" alt="">
+                    <span>小宇先生</span>
+                </p>
+                <p>不只是颜值出众，可谓是秀外慧中</p>
+                <span>魅族17</span>
+            </div>
         </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
+    </div>
+    <div class="wrap">
+        <h2>Flyme</h2>
+
+        <div class="part9">
+            <div class="fir">
+                <img src="../image/part9.png" alt="">
+            </div>
+            <div>
+                <img src="../image/part9-1.png" alt="">
+                <p>全面提升续航能力</p>
+            </div>
+            <div>
+                <img src="../image/part9-1.png" alt="">
+                <p>全面提升续航能力</p>
+            </div>
+            <div>
+                <img src="../image/part9-1.png" alt="">
+                <p>全面提升续航能力</p>
+            </div>
+            <div>
+                <img src="../image/part9-1.png" alt="">
+                <p>全面提升续航能力</p>
+            </div>
+            <div>
+                <img src="../image/part9-1.png" alt="">
+                <p>全面提升续航能力</p>
+            </div>
+            <div>
+                <img src="../image/part9-1.png" alt="">
+                <p>全面提升续航能力</p>
+            </div>
         </div>
-        <div class="left">
-            <img src="../image/part6-bg2.jpg" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div class="left">
-            <img src="../image/part6-bg3.jpg" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
-        </div>
-        <div>
-            <img src="../image/part6-1.png" alt="">
-            <h3>魅族 HIFI 解码 耳放</h3>
-            <p>高性能DAC芯片</p>
-            <span>￥169</span>
+    </div>
+    <div class="wrap">
+        <h2>精彩视频</h2>
+
+        <div class="part9">
+
+            <div>
+                <img src="../image/part10.jpg" alt="">
+                <p>Flyme 8 概念视频</p>
+            </div>
+            <div>
+                <img src="../image/part10.jpg" alt="">
+                <p>Flyme 8 概念视频</p>
+            </div>
+            <div>
+                <img src="../image/part10.jpg" alt="">
+                <p>Flyme 8 概念视频</p>
+            </div>
+            <div>
+                <img src="../image/part10.jpg" alt="">
+                <p>Flyme 8 概念视频</p>
+            </div>
+            <div>
+                <img src="../image/part10.jpg" alt="">
+                <p>Flyme 8 概念视频</p>
+            </div>
+            <div>
+                <img src="../image/part10.jpg" alt="">
+                <p>Flyme 8 概念视频</p>
+            </div>
+            <div>
+                <img src="../image/part10.jpg" alt="">
+                <p>Flyme 8 概念视频</p>
+            </div>
+            <div>
+                <img src="../image/part10.jpg" alt="">
+                <p>Flyme 8 概念视频</p>
+            </div>
         </div>
     </div>
     <div class="footer">
@@ -753,25 +683,8 @@
 
     </div>
     <script src="../js/jquery.js"></script>
-    <script src="../js/tool.js"></script>
     <script src="../js/swiper.js"></script>
     <script src="../js/header.js"></script>
-    <script>
-        let $div = [...$('.swiper-slide')]
-        $div.forEach((item, index) => {
-            $(item).css('background', `url('../image/${index+1}.jpg')no-repeat top center`)
-        })
-        var mySwiper = new Swiper('.swiper-container', {
-            direction: 'horizontal', // 垂直切换选项
-            loop: true, // 循环模式选项
-            autoplay: true,
-            // 如果需要分页器
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-            },
-        })
-    </script>
+    <script src="../js/index.js"></script>
 </body>
-
 </html>
