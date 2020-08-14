@@ -81,6 +81,7 @@
 }
 
 .login .box .main-form .code span {
+  cursor: pointer;
   padding: 0 px;
   height: 20px;
   color: #474747;
@@ -106,6 +107,7 @@
 }
 
 .login .box .main-form p {
+  margin-top: 10px;
   display: flex;
   justify-content: space-between;
 }

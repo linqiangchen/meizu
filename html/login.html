@@ -24,7 +24,7 @@
                 <input type="text" placeholder="请输入验证码">
                 <span>156984</span>   
             </div>
-            <button>登录</button>
+            <button class="login-btn">登录</button>
             <p>
                 <span>注册</span>
                 <span>忘记密码？</span>
@@ -84,5 +84,29 @@
         </div>
 
     </div>
+
+<script src="../js/jquery.js"></script>
+    <script>
+        function randomInt(min, max) {//产生[min,max]范围内的整数
+    return Math.round(Math.random() * (max - min)) + min
+}
+    let code = randomInt(100000,999999)
+
+$('.code span').text(code)
+$('.code span').click(function(){ 
+    code = randomInt(100000,999999)
+
+$('.code span').text(code)
+})
+
+let req = /^1[3456789]\d{9}$/;
+$('.login-btn').click(function(){
+    console.log( code)
+    if(req.test($('.phone input').val()) && $('.code input').val() == code){
+        alert('登陆成功')
+        location.href = '../html/index.html'
+    }
+})
+    </script>
 </body>
 </html>

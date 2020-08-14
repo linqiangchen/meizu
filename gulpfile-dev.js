@@ -48,13 +48,13 @@ task('watch',async ()=>{
 })
 
 // 启动服务，自动刷新
-task('connect',async ()=>{
-  load.connect.server({
-    root: './dist',
-    livereload: true,
-    port: 3000
-  });
-})
+// task('connect',async ()=>{
+//   load.connect.server({
+//     root: './dist',
+//     livereload: true,
+//     port: 3000
+//   });
+// })
 
 // 构建开发包
-task('dev',series('delDist','image','sass','js','html','connect','watch'))
+task('dev',series('delDist','image','sass','js','html','watch'))

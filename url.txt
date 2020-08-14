@@ -1,0 +1,441 @@
+<ul class="goods-list-wrap clearfix" id="goodsListWrap">
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/hd60jz.html?skuId=12823&amp;click=store_list_kw_1" title="魅族 HD60 降噪耳机" data-mtype="store_list_kw_1" data-bh="click_store_list_kw_1">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/07/E0/Cgbj0V6z8VSAV6kEAAlCc-omYno614.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/07/E0/Cgbj0V6z8VSAV6kEAAlCc-omYno614.png@480x480.jpg" alt="魅族 HD60 降噪耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_1_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/E0/Cgbj0V6z8VSAV6kEAAlCc-omYno614.png@480x480.jpg" data-bh="click_store_list_kw_1_clr_1" data-skuid="" title="雾银黑">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 HD60 降噪耳机</h3>
+                            <p class="item-desc">【夏日限时特惠999元】索尼主动降噪芯片 | 40mm镀铍振膜 | 触控操作 | USB - C 快充 | 轻奢品质</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">1099</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizu_TW50s.html?skuId=10891&amp;click=store_list_kw_2" title="魅族 POP2 真无线蓝牙耳机" data-mtype="store_list_kw_2" data-bh="click_store_list_kw_2">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png@480x480.jpg" alt="魅族 POP2 真无线蓝牙耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_2_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png@480x480.jpg" data-bh="click_store_list_kw_2_clr_1" data-skuid="" title="皓月白">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 POP2 真无线蓝牙耳机</h3>
+                            <p class="item-desc">【夏日限时特惠329元】蓝牙5.0 | 单次8H续航 | 石墨烯振膜 | 双耳通话 | 轻触操作 | 轻盈舒适</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">399</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/hifiha.html?skuId=10747&amp;click=store_list_kw_3" title="魅族 HIFI 解码耳放" data-mtype="store_list_kw_3" data-bh="click_store_list_kw_3">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png@480x480.jpg" alt="魅族 HIFI 解码耳放" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_3_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png@480x480.jpg" data-bh="click_store_list_kw_3_clr_1" data-skuid="" title="黑色">
+                                            <img class="lazy" src="//storeimg.meizu.com/product/1451459052-28689.png" data-original="//storeimg.meizu.com/product/1451459052-28689.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 HIFI 解码耳放</h3>
+                            <p class="item-desc">【夏日限时特惠119元】高性能DAC芯片 | 纯净HiFi音质 | 600Ω高阻抗推力 | Type-C 转接线 | 音乐发烧友必备</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">169</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/ep3c.html?skuId=11765&amp;click=store_list_kw_4" title="魅族 EP3C 耳机" data-mtype="store_list_kw_4" data-bh="click_store_list_kw_4">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/07/63/Cgbj0V1l2ieAYKJGAAHMHuLWRMo374.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/07/63/Cgbj0V1l2ieAYKJGAAHMHuLWRMo374.png@480x480.jpg" alt="魅族 EP3C 耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_4_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/63/Cgbj0V1l2ieAYKJGAAHMHuLWRMo374.png@480x480.jpg" data-bh="click_store_list_kw_4_clr_1" data-skuid="" title="白色">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 EP3C 耳机</h3>
+                            <p class="item-desc">【夏日限时特惠99元】Hi-Res 认证高解析音质 | Type-C数字接口 | 高保真生物纤维振膜</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">129</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizu_EP63.html?skuId=10913&amp;click=store_list_kw_5" title="魅族 EP63NC 无线降噪耳机" data-mtype="store_list_kw_5" data-bh="click_store_list_kw_5">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/07/10/Cgbj0Fy9JYOACw2DAAMWf3vEhbA886.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/07/10/Cgbj0Fy9JYOACw2DAAMWf3vEhbA886.png@480x480.jpg" alt="魅族 EP63NC 无线降噪耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_5_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/10/Cgbj0Fy9JYOACw2DAAMWf3vEhbA886.png@480x480.jpg" data-bh="click_store_list_kw_5_clr_1" data-skuid="" title="玄武灰">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAeEoeAAAJoebTwUM825.png" data-original="//openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAeEoeAAAJoebTwUM825.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 EP63NC 无线降噪耳机</h3>
+                            <p class="item-desc">【夏日限时特惠299元】AMS 芯片智能降噪 | Qualcomm apt-X™ 高清音质 | 蓝牙一拖二连接 | 11小时超长续航 | 快充15分钟畅听3小时</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">399</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizuhd60.html?skuId=12458&amp;click=store_list_kw_6" title="魅族 HD60 头戴式蓝牙耳机" data-mtype="store_list_kw_6" data-bh="click_store_list_kw_6">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/07/86/Cgbj0V3UocyAR_tJAApbDmCAyEo620.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/07/86/Cgbj0V3UocyAR_tJAApbDmCAyEo620.png@480x480.jpg" alt="魅族 HD60 头戴式蓝牙耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_6_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/86/Cgbj0V3UocyAR_tJAApbDmCAyEo620.png@480x480.jpg" data-bh="click_store_list_kw_6_clr_1" data-skuid="" title="热带橙色">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAMJ7MAAARfgRallY579.png" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAMJ7MAAARfgRallY579.png" alt="" style="display: inline;">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_6_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/78/Cgbj0V2unT2ACCMdAAjdK9xe2cI340.png@480x480.jpg" data-bh="click_store_list_kw_6_clr_1" data-skuid="" title="雾银黑色">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 HD60 头戴式蓝牙耳机</h3>
+                            <p class="item-desc">【夏日特惠429元】40mm生物振膜  | Type-C充电 | 触控操作 | 蓝牙5.0 | 轻奢品质</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">499</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/ep21new.html?skuId=12465&amp;click=store_list_kw_7" title="魅族 EP21耳机" data-mtype="store_list_kw_7" data-bh="click_store_list_kw_7">
+                                <img class="item-pic lazy j-modProduct" src="//storeimg.meizu.com/product/1449643421-24522.png@480x480.jpg" data-original="//storeimg.meizu.com/product/1449643421-24522.png@480x480.jpg" alt="魅族 EP21耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_7_clr_1" data-imgsrc="//storeimg.meizu.com/product/1449643421-24522.png@480x480.jpg" data-bh="click_store_list_kw_7_clr_1" data-skuid="" title="白色">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 EP21耳机</h3>
+                            <p class="item-desc">三键一体式线控 | 3.5mm接口 </p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">89</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizu_g20.html?skuId=7157&amp;click=store_list_kw_8" title="魅族 HALO 激光蓝牙耳机" data-mtype="store_list_kw_8" data-bh="click_store_list_kw_8">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png@480x480.jpg" alt="魅族 HALO 激光蓝牙耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_8_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png@480x480.jpg" data-bh="click_store_list_kw_8_clr_1" data-skuid="" title="蓝色">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAPw0DAAAJ69zqZ5g670.png" data-original="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAPw0DAAAJ69zqZ5g670.png" alt="" style="display: inline;">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_8_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/04/08/Cgbj0FrcX6iAfZfmAARPvQUH0FM087.png@480x480.jpg" data-bh="click_store_list_kw_8_clr_1" data-skuid="" title="红色">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAZdw0AAAJi311VBs869.png" data-original="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAZdw0AAAJi311VBs869.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 HALO 激光蓝牙耳机</h3>
+                            <p class="item-desc">炫酷夜跑神器 随性张扬</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">499</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizu_ep52_lite.html?skuId=9843&amp;click=store_list_kw_9" title="魅族 EP52 Lite 蓝牙耳机" data-mtype="store_list_kw_9" data-bh="click_store_list_kw_9">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-OAIlOuAAIlimOCLcA452.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-OAIlOuAAIlimOCLcA452.png@480x480.jpg" alt="魅族 EP52 Lite 蓝牙耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_9_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-OAIlOuAAIlimOCLcA452.png@480x480.jpg" data-bh="click_store_list_kw_9_clr_1" data-skuid="" title="月白">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="" style="display: inline;">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_9_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png@480x480.jpg" data-bh="click_store_list_kw_9_clr_1" data-skuid="" title="深蓝">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAWNQ_AAAKCZNpzA4524.png" data-original="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAWNQ_AAAKCZNpzA4524.png" alt="" style="display: inline;">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_9_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/06/A6/Cgbj0Vui_-SASKMsAAQO9wrBG1Q074.png@480x480.jpg" data-bh="click_store_list_kw_9_clr_1" data-skuid="" title="云灰">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAXrLjAAAKGDAXl9Q548.png" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAXrLjAAAKGDAXl9Q548.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 EP52 Lite 蓝牙耳机</h3>
+                            <p class="item-desc">【夏日限时特惠109元】轻巧亲肤 | 生物纤维振膜 | 8小时续航 | IPX5级防水</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">129</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/hifihapro.html?skuId=11766&amp;click=store_list_kw_10" title="魅族 HiFi 解码耳放 PRO" data-mtype="store_list_kw_10" data-bh="click_store_list_kw_10">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/07/4C/Cgbj0F1l4LyAR44oAAJKhE-uRA8619.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/07/4C/Cgbj0F1l4LyAR44oAAJKhE-uRA8619.png@480x480.jpg" alt="魅族 HiFi 解码耳放 PRO" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_10_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/4C/Cgbj0F1l4LyAR44oAAJKhE-uRA8619.png@480x480.jpg" data-bh="click_store_list_kw_10_clr_1" data-skuid="" title="">
+                                            <img class="lazy" src="//storeimg.meizu.com/product/1451459052-28689.png" data-original="//storeimg.meizu.com/product/1451459052-28689.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 HiFi 解码耳放 PRO</h3>
+                            <p class="item-desc">性能DAC芯片 | 超强二级运放 | Hi-Res 认证高解析音质 | 高阻抗推力 | Type-C转接线</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">269</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meiuzep71.html?skuId=6202&amp;click=store_list_kw_11" title="魅族 LIVE 四单元动铁耳机" data-mtype="store_list_kw_11" data-bh="click_store_list_kw_11">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png@480x480.jpg" alt="魅族 LIVE 四单元动铁耳机" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_11_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png@480x480.jpg" data-bh="click_store_list_kw_11_clr_1" data-skuid="" title="银色">
+                                            <img class="lazy" src="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAEKi6AAAJi9-u7vs526.png" data-original="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAEKi6AAAJi9-u7vs526.png" alt="" style="display: inline;">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 LIVE 四单元动铁耳机</h3>
+                            <p class="item-desc">【夏日限时特惠999元】Knowles四动铁 双通道导音系统 现场级音乐表现</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">1099</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/MEIZUURYY.html?skuId=&amp;click=store_list_kw_12" title="MEIZU UR 高端定制耳机  预约" data-mtype="store_list_kw_12" data-bh="click_store_list_kw_12">
+                                <img class="item-pic lazy j-modProduct" src="//openfile.meizu.com/group1/M00/07/4D/Cgbj0F1l7zeAFyLsAAZJk_cF8Tk126.png@480x480.jpg" data-original="//openfile.meizu.com/group1/M00/07/4D/Cgbj0F1l7zeAFyLsAAZJk_cF8Tk126.png@480x480.jpg" alt="MEIZU UR 高端定制耳机  预约" style="display: block;">
+
+                            <ul class="item-slide j-pro-wrap">
+                            </ul>
+                            <h3 class="item-title">MEIZU UR 高端定制耳机  预约</h3>
+                            <p class="item-desc">【预约专用】私人定制，为你而声</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">200</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/ep_2x.html?skuId=2505&amp;click=store_list_kw_13" title="魅族 EP2X 耳机" data-mtype="store_list_kw_13" data-bh="click_store_list_kw_13">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png@480x480.jpg" alt="魅族 EP2X 耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_13_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png@480x480.jpg" data-bh="click_store_list_kw_13_clr_1" data-skuid="" title="珍珠黑">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAEDyYAAAKRl5WFHo684.png" alt="">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_13_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcVpeAOmoaAAGh-ubroNg891.png@480x480.jpg" data-bh="click_store_list_kw_13_clr_1" data-skuid="" title="皓月白">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族 EP2X 耳机</h3>
+                            <p class="item-desc">一体式线控 | 3.5mm接口 | 流线设计</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">69</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizuhd60lyh.html?skuId=13578&amp;click=store_list_kw_14" title="【老用户专享】魅族 HD60 头戴式蓝牙耳机" data-mtype="store_list_kw_14" data-bh="click_store_list_kw_14">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/86/Cgbj0V3UocyAR_tJAApbDmCAyEo620.png@480x480.jpg" alt="【老用户专享】魅族 HD60 头戴式蓝牙耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_14_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/86/Cgbj0V3UocyAR_tJAApbDmCAyEo620.png@480x480.jpg" data-bh="click_store_list_kw_14_clr_1" data-skuid="" title="热带橙色">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAMJ7MAAARfgRallY579.png" alt="">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_14_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/78/Cgbj0V2unT2ACCMdAAjdK9xe2cI340.png@480x480.jpg" data-bh="click_store_list_kw_14_clr_1" data-skuid="" title="雾银黑色">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【老用户专享】魅族 HD60 头戴式蓝牙耳机</h3>
+                            <p class="item-desc">【1元换购价值69元数据线】40mm生物振膜  | Type-C充电 | 触控操作 | 蓝牙5.0 | 轻奢品质</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">429</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/hd60jzlyh.html?skuId=13576&amp;click=store_list_kw_15" title="【老用户专享】-魅族 HD60 降噪耳机" data-mtype="store_list_kw_15" data-bh="click_store_list_kw_15">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/E0/Cgbj0V6z8VSAV6kEAAlCc-omYno614.png@480x480.jpg" alt="【老用户专享】-魅族 HD60 降噪耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_15_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/E0/Cgbj0V6z8VSAV6kEAAlCc-omYno614.png@480x480.jpg" data-bh="click_store_list_kw_15_clr_1" data-skuid="" title="雾银黑">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【老用户专享】-魅族 HD60 降噪耳机</h3>
+                            <p class="item-desc">【129元换购价值299元电动牙刷】索尼主动降噪芯片 | 40mm镀铍振膜 | 触控操作 | USB - C 快充 | 轻奢品质</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">999</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/hifihathlyh.html?skuId=13573&amp;click=store_list_kw_16" title="【老用户专享】-魅族 HIFI 解码耳放" data-mtype="store_list_kw_16" data-bh="click_store_list_kw_16">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png@480x480.jpg" alt="【老用户专享】-魅族 HIFI 解码耳放">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_16_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png@480x480.jpg" data-bh="click_store_list_kw_16_clr_1" data-skuid="" title="黑色">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//storeimg.meizu.com/product/1451459052-28689.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【老用户专享】-魅族 HIFI 解码耳放</h3>
+                            <p class="item-desc">【1元换购价值39元数据线】高性能DAC芯片 | 纯净HiFi音质 | 600Ω高阻抗推力 | Type-C 转接线 | 音乐发烧友必备</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">119</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meiuzep71zs.html?skuId=13162&amp;click=store_list_kw_17" title="【夏日特惠】魅族 LIVE 四单元动铁耳机" data-mtype="store_list_kw_17" data-bh="click_store_list_kw_17">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png@480x480.jpg" alt="【夏日特惠】魅族 LIVE 四单元动铁耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_17_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png@480x480.jpg" data-bh="click_store_list_kw_17_clr_1" data-skuid="" title="银色">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAEKi6AAAJi9-u7vs526.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【夏日特惠】魅族 LIVE 四单元动铁耳机</h3>
+                            <p class="item-desc">Knowles四动铁 双通道导音系统 现场级音乐表现</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">999</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizu_ep52_litezs.html?skuId=13157&amp;click=store_list_kw_18" title="【夏日特惠】-魅族 EP52 Lite 蓝牙耳机" data-mtype="store_list_kw_18" data-bh="click_store_list_kw_18">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-OAIlOuAAIlimOCLcA452.png@480x480.jpg" alt="【夏日特惠】-魅族 EP52 Lite 蓝牙耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_18_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-OAIlOuAAIlimOCLcA452.png@480x480.jpg" data-bh="click_store_list_kw_18_clr_1" data-skuid="" title="深蓝">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_18_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png@480x480.jpg" data-bh="click_store_list_kw_18_clr_1" data-skuid="" title="云灰">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/00/Cgbj0Vw8RZKAWNQ_AAAKCZNpzA4524.png" alt="">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_18_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/06/A6/Cgbj0Vui_-SASKMsAAQO9wrBG1Q074.png@480x480.jpg" data-bh="click_store_list_kw_18_clr_1" data-skuid="" title="">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAXrLjAAAKGDAXl9Q548.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【夏日特惠】-魅族 EP52 Lite 蓝牙耳机</h3>
+                            <p class="item-desc">轻巧亲肤 | 生物纤维振膜 | 8小时续航 | IPX5级防水</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">109</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizuhd60zs.html?skuId=13155&amp;click=store_list_kw_19" title="【夏日特惠】魅族 HD60 头戴式蓝牙耳机" data-mtype="store_list_kw_19" data-bh="click_store_list_kw_19">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/86/Cgbj0V3UocyAR_tJAApbDmCAyEo620.png@480x480.jpg" alt="【夏日特惠】魅族 HD60 头戴式蓝牙耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_19_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/86/Cgbj0V3UocyAR_tJAApbDmCAyEo620.png@480x480.jpg" data-bh="click_store_list_kw_19_clr_1" data-skuid="" title="雾银黑色">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAMJ7MAAARfgRallY579.png" alt="">
+                                        </li>
+                                        <li class="item-slide-dot" data-mtype="store_list_kw_19_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/78/Cgbj0V2unT2ACCMdAAjdK9xe2cI340.png@480x480.jpg" data-bh="click_store_list_kw_19_clr_1" data-skuid="" title="">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【夏日特惠】魅族 HD60 头戴式蓝牙耳机</h3>
+                            <p class="item-desc">【限时12期免息】40mm生物振膜  | Type-C充电 | 触控操作 | 蓝牙5.0 | 轻奢品质</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">429</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/ep3cth.html?skuId=13092&amp;click=store_list_kw_20" title="【夏日特惠】-魅族 EP3C 耳机" data-mtype="store_list_kw_20" data-bh="click_store_list_kw_20">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/63/Cgbj0V1l2ieAYKJGAAHMHuLWRMo374.png@480x480.jpg" alt="【夏日特惠】-魅族 EP3C 耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_20_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/63/Cgbj0V1l2ieAYKJGAAHMHuLWRMo374.png@480x480.jpg" data-bh="click_store_list_kw_20_clr_1" data-skuid="" title="白色">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【夏日特惠】-魅族 EP3C 耳机</h3>
+                            <p class="item-desc">Hi-Res 认证高解析音质 | Type-C数字接口 | 高保真生物纤维振膜</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">99</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/hifihath.html?skuId=13089&amp;click=store_list_kw_21" title="【夏日特惠】-魅族 HIFI 解码耳放" data-mtype="store_list_kw_21" data-bh="click_store_list_kw_21">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png@480x480.jpg" alt="【夏日特惠】-魅族 HIFI 解码耳放">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_21_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png@480x480.jpg" data-bh="click_store_list_kw_21_clr_1" data-skuid="" title="黑色">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//storeimg.meizu.com/product/1451459052-28689.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【夏日特惠】-魅族 HIFI 解码耳放</h3>
+                            <p class="item-desc">高性能DAC芯片 | 纯净HiFi音质 | 600Ω高阻抗推力 | Type-C 转接线 | 音乐发烧友必备</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">119</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizu_TW50sth.html?skuId=13088&amp;click=store_list_kw_22" title="【夏日特惠】魅族 POP2 真无线蓝牙耳机" data-mtype="store_list_kw_22" data-bh="click_store_list_kw_22">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png@480x480.jpg" alt="【夏日特惠】魅族 POP2 真无线蓝牙耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_22_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png@480x480.jpg" data-bh="click_store_list_kw_22_clr_1" data-skuid="" title="皓月白">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【夏日特惠】魅族 POP2 真无线蓝牙耳机</h3>
+                            <p class="item-desc">蓝牙5.0 | 单次8H续航 | 石墨烯振膜 | 双耳通话 | 轻触操作 | 轻盈舒适</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">329</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizu_EP63th.html?skuId=13087&amp;click=store_list_kw_23" title="【夏日特惠】魅族 EP63NC 无线降噪耳机" data-mtype="store_list_kw_23" data-bh="click_store_list_kw_23">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/10/Cgbj0Fy9JYOACw2DAAMWf3vEhbA886.png@480x480.jpg" alt="【夏日特惠】魅族 EP63NC 无线降噪耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_23_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/10/Cgbj0Fy9JYOACw2DAAMWf3vEhbA886.png@480x480.jpg" data-bh="click_store_list_kw_23_clr_1" data-skuid="" title="玄武灰">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/FD/Cgbj0Vw0T3OAeEoeAAAJoebTwUM825.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【夏日特惠】魅族 EP63NC 无线降噪耳机</h3>
+                            <p class="item-desc">AMS 芯片智能降噪 | Qualcomm apt-X™ 高清音质 | 蓝牙一拖二连接 | 11小时超长续航 | 快充15分钟畅听3小时</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">299</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/hd60jzth.html?skuId=13062&amp;click=store_list_kw_24" title="【夏日特惠】-魅族 HD60 降噪耳机" data-mtype="store_list_kw_24" data-bh="click_store_list_kw_24">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/E0/Cgbj0V6z8VSAV6kEAAlCc-omYno614.png@480x480.jpg" alt="【夏日特惠】-魅族 HD60 降噪耳机">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_24_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/07/E0/Cgbj0V6z8VSAV6kEAAlCc-omYno614.png@480x480.jpg" data-bh="click_store_list_kw_24_clr_1" data-skuid="" title="雾银黑">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/07/67/Cgbj0F2wCvOAWIoaAAAQumAb0IQ155.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">【夏日特惠】-魅族 HD60 降噪耳机</h3>
+                            <p class="item-desc">【限时12期免息】索尼主动降噪芯片 | 40mm镀铍振膜 | 触控操作 | USB - C 快充 | 轻奢品质</p>
+                            <p class="item-price">
+                                    <span class="item-price__tag is-discount">限时特惠</span>
+                                <em>￥</em><span class="vm-price">999</span>
+                            </p>
+                        </a>
+                    </li>
+                    <li class="gl-item" data-init="0">
+                        <a class="gl-item-link" target="_blank" href="//detail.meizu.com/item/meizu_xp.html?skuId=9573&amp;click=store_list_kw_25" title="魅族蓝牙音频接收器" data-mtype="store_list_kw_25" data-bh="click_store_list_kw_25">
+                                <img class="item-pic lazy j-modProduct" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/70/Cgbj0FuZwuGADzVHAAG7wQGHkAM447.png@480x480.jpg" alt="魅族蓝牙音频接收器">
+
+                            <ul class="item-slide j-pro-wrap">
+                                        <li class="item-slide-dot active" data-mtype="store_list_kw_25_clr_1" data-imgsrc="//openfile.meizu.com/group1/M00/06/70/Cgbj0FuZwuGADzVHAAG7wQGHkAM447.png@480x480.jpg" data-bh="click_store_list_kw_25_clr_1" data-skuid="" title="钢琴黑">
+                                            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-original="//openfile.meizu.com/group1/M00/06/F0/Cgbj0Fw8RZKAZoWmAAAJazF5kdU895.png" alt="">
+                                        </li>
+                            </ul>
+                            <h3 class="item-title">魅族蓝牙音频接收器</h3>
+                            <p class="item-desc">独立音频芯片 | 一键控制 | 6小时续航 | 轻巧设计</p>
+                            <p class="item-price">
+                                <em>￥</em><span class="vm-price">89</span>
+                            </p>
+                        </a>
+                    </li>
+            </ul>

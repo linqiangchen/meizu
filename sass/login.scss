@@ -71,6 +71,7 @@
                  height: 48px;
                  border: 1px #ccc solid;
                  span{
+                     cursor: pointer;
                      padding: 0 px;
                      height: 20px;
                      color: #474747;
@@ -94,6 +95,7 @@
                  color: #fff;
              }
              p{
+                 margin-top: 10px;
                  display: flex;
                  justify-content: space-between;
                  span{

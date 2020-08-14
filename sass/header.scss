@@ -128,13 +128,21 @@
 }
 
 .nav-list ul li {
+    width: 120px;
     margin-top: 80px;
     text-align: center;
+    p{
+        text-align: center;
+        width: 120px;
+        overflow: hidden;text-overflow: ellipsis;white-space: nowrap;
+    }
 }
 
 .nav-list li img {
     display: block;
-    width: 120px;
+    margin: 0 auto;
+  width:120px;
+
 }
 
 .nav-list .tit {

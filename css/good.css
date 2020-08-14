@@ -6,6 +6,39 @@
   color: #008CFF;
 }
 
+.title {
+  width: 100%;
+  min-width: 1260px;
+  margin: 0 auto;
+  background-color: #f6f8fb;
+  opacity: 0.9;
+  position: sticky;
+  top: 0px;
+  height: 70px;
+  z-index: 10;
+}
+
+.title div {
+  width: 1260px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  line-height: 70px;
+}
+
+.title div span {
+  font-size: 16px;
+  color: #333;
+  padding: 0 20px;
+}
+
+.title div ._name {
+  font-size: 26px;
+  color: #000;
+  padding: 0 8px;
+}
+
 .good {
   width: 1260px;
   margin: auto;
@@ -24,8 +57,12 @@
 }
 
 .good .left ul {
+  margin-top: 10px;
   display: flex;
-  justify-content: space-between;
+}
+
+.good .left ul li {
+  margin: 0 24px;
 }
 
 .good .left ul li img {
@@ -36,6 +73,10 @@
 .good .right {
   padding: 25px;
   width: 640px;
+}
+
+.good .right .active {
+  border-color: #000 !important;
 }
 
 .good .right h1 {
@@ -152,6 +193,7 @@
 }
 
 .good .right ul .model div span {
+  cursor: pointer;
   margin: 0 10px 10px 0px;
   font-size: 14px;
   color: #595959;
@@ -173,6 +215,7 @@
 }
 
 .good .right ul .color div span {
+  cursor: pointer;
   margin: 0 10px 10px 0px;
   font-size: 14px;
   color: #595959;
@@ -198,6 +241,7 @@
 }
 
 .good .right ul .huaBei p {
+  cursor: pointer;
   box-sizing: border-box;
   border: 1px #ccc solid;
   padding: 7px 0;
@@ -227,13 +271,70 @@
 }
 
 .good .right .cart {
+  border-radius: 5px;
+  float: left;
   margin-top: 40px;
-  margin-left: 10px;
+  margin-left: 20px;
   display: block;
   width: 210px;
   height: 56px;
+  font-size: 20px;
   color: #008cff;
   border: 1px solid #008cff;
   text-align: center;
   line-height: 56px;
+}
+
+.good .right .buy {
+  border-radius: 5px;
+  float: left;
+  margin-top: 40px;
+  margin-left: 10px;
+  display: block;
+  font-size: 20px;
+  width: 210px;
+  height: 56px;
+  background-color: #008cff;
+  color: #fff;
+  border: 1px solid #008cff;
+  text-align: center;
+  line-height: 56px;
+}
+
+.good-show {
+  width: 100%;
+  min-width: 1260px;
+  margin: 0 auto;
+  background-color: #f4f4f4;
+  padding: 0 0 70px;
+}
+
+.good-show .delay {
+  width: 1260px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.good-show .delay h2 {
+  font-size: 24px;
+  padding: 45px 0 20px;
+}
+
+.good-show .delay img {
+  display: block;
+}
+
+.good-show .delay .up {
+  position: fixed;
+  width: 45px;
+  height: 45px;
+  right: 200px;
+  bottom: 100px;
+  background-color: #ccc;
+}
+
+.good-show .delay .up img {
+  width: 45px;
+  height: 45px;
+  display: block;
 }
