@@ -198,8 +198,7 @@
 .part5 {
   padding-top: 10px;
   background-color: #f4f4f4;
-  width: 100%;
-  min-width: 1260px;
+  width: 1260px;
   margin: 0px auto;
   display: flex;
   flex-wrap: wrap;
