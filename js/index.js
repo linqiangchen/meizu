@@ -19,6 +19,7 @@ $(function(){
         url:'/part',
         success:function(data){
         //part2
+       
             let div2 = ''
             data.part2.forEach((item ,index)=> {
                 div2 += `<a href="../html/good.html?id=${index}"><div>
@@ -76,6 +77,7 @@ $(function(){
             })
             $('._part7').append(div7);
             //part8
+            console.log(data)
             let div8 = ''
             data.part8.forEach((item ,index)=>  {
                 div8 += `<a href="../html/good.html?id=${index}"><div>
@@ -88,7 +90,7 @@ $(function(){
                 <span>${item.name}</span>
             </div></a>`
             })
-            $('._part8').append(div8);
+            $('.part8').append(div8);
             //part9
             let div9 = ''
             data.part9.forEach((item ,index)=>  {

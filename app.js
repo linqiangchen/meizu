@@ -464,56 +464,56 @@ let indexPart = {
     part8: [{
             image: 'https://fms.res.meizu.com/dms/2020/05/28/fda8c8cb-6dd5-4fca-8c64-fdc6a07123a8.png',
             userAvatar: 'https://img-res.mzres.com/img/download/uc/12/46/00/30/00/1246003/w100h100?t=1597368306',
-            userNmae: 'frankm8fans',
+            userName: 'frankm8fans',
             con: '魅族 17Pro 定白率先上手体验，第一感觉就是，这很魅族！',
             name: '魅族 17Pro'
         },
         {
             image: 'https://fms.res.meizu.com/dms/2020/05/28/42b2c0bf-f5b0-4f0f-9023-3df3d10a0662.png',
             userAvatar: 'https://img-res.mzres.com/img/download/uc/13/28/97/03/00/13289703/w100h100?t=1597368306',
-            userNmae: '小宇先森08',
+            userName: '小宇先森08',
             con: '不只是颜值出众，可谓是秀外慧中。',
             name: '魅族 17'
         },
         {
             image: 'https://fms.res.meizu.com/dms/2020/05/28/40f14166-72e1-40c3-a816-1b44a05ca270.png',
             userAvatar: 'https://img-res.mzres.com/img/download/uc/58/35/18/00/00/583518/w100h100?t=1597368306',
-            userNmae: 'grayfox77',
+            userName: 'grayfox77',
             con: '现在大家对手机拍照质量的需求越来越高，最受关注的就是焦段与画质。',
             name: '魅族 17Pro 摄影作品'
         },
         {
             image: 'https://fms.res.meizu.com/dms/2020/05/28/97540b0b-9fb2-45e1-bbec-2a250c64a696.png',
             userAvatar: 'https://img-res.mzres.com/img/download/uc/14/52/97/69/00/14529769/w100h100?t=1597368306',
-            userNmae: '明日之新',
+            userName: '明日之新',
             con: '魅族 17 Pro 6400W 全场景 AR 专业影像系统体验。',
             name: '魅族 17 Pro 摄影作品'
         },
         {
             image: 'https://fms.res.meizu.com/dms/2020/05/28/444b1da7-072a-4a3a-9fc5-8bafb630ccfd.png',
             userAvatar: 'https://img-res.mzres.com/img/download/uc/96/59/85/50/00/9659855/w100h100?t=1597368306',
-            userNmae: '一叶一会',
+            userName: '一叶一会',
             con: '魅族 17 微距摄影，灵动绚烂。',
             name: '魅族 17 摄影作品'
         },
         {
             image: 'https://fms.res.meizu.com/dms/2020/05/28/d5ad3a0d-ead8-4c65-a517-84de313c1b4e.png',
             userAvatar: 'https://img-res.mzres.com/img/download/uc/14/52/97/69/00/14529769/w100h100?t=1597368306',
-            userNmae: '明日之新',
+            userName: '明日之新',
             con: '多一点耐心，多一点发现，多一点想象，去留意身边风景。',
             name: '魅族 17 Pro 摄影作品'
         },
         {
             image: 'https://fms.res.meizu.com/dms/2020/05/28/ab66ca73-8431-4ba4-9189-e4708f88eda3.png',
             userAvatar: 'https://img-res.mzres.com/img/download/uc/11/90/25/05/60/119025056/w100h100?t=1597368306',
-            userNmae: '我是魅之神',
+            userName: '我是魅之神',
             con: '魅族 17 Pro手持超级夜景实拍，镜头里的夜色如此美妙。',
             name: '魅族 17Pro 摄影作品'
         },
         {
             image: 'https://fms.res.meizu.com/dms/2020/05/28/17ce9018-4516-494c-a112-cd0529249396.png',
             userAvatar: 'https://img-res.mzres.com/img/download/uc/12/46/00/30/00/1246003/w100h100?t=1597368306',
-            userNmae: 'frankm8fans',
+            userName: 'frankm8fans',
             con: '陪你一路风光 陪你一起风光！',
             name: '魅族情怀'
         },
