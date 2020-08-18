@@ -20,6 +20,10 @@
                 <span>+86</span>
                 <input type="text" placeholder="手机号码">
             </div>
+            <div class="pass">
+                <span>密码</span>
+                <input type="password" placeholder="">
+            </div>
             <div class="code">
                 <input type="text" placeholder="请输入验证码">
                 <span>156984</span>   
@@ -95,16 +99,33 @@
 $('.code span').text(code)
 $('.code span').click(function(){ 
     code = randomInt(100000,999999)
-
 $('.code span').text(code)
 })
 
 let req = /^1[3456789]\d{9}$/;
 $('.login-btn').click(function(){
-    console.log( code)
-    if(req.test($('.phone input').val()) && $('.code input').val() == code){
-        alert('登陆成功')
-        location.href = '../html/index.html'
+    let pass =  $('.pass input').val();
+    let user = $('.phone input').val()
+    if(req.test(user) && $('.code input').val() == code && pass.length >=8 &&pass.length <=22 ){
+        $.ajax({
+            type:'get',
+            url:'/login',
+            data:{
+                user:user,
+                pass:pass
+            },
+            success:(res)=>{
+                if(res.code === 1){
+                    alert('登陆成功');
+                     location.href = '../html/index.html'
+                }else{
+                    alert(res.msg);
+                }
+            }
+        })
+        // location.href = '../html/index.html'
+    }else{
+        alert('账号或密码格式不正确')
     }
 })
     </script>

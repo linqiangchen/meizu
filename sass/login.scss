@@ -29,7 +29,7 @@
         .main-form{
             width: 298px;
             position: absolute;
-            top: 200px;
+            top: 150px;
             right: 150px;
             background-color: #FFF;
             padding: 35px 35px 10px;
@@ -39,6 +39,7 @@
                 text-align: center;
                 height: 28px;
                 line-height: 28px;
+                margin-bottom: 10px;
                 font-size: 21px;
                 color: #515151;
             }
@@ -50,6 +51,26 @@
                 height: 48px;
                 border: 1px #ccc solid;
                 span{
+                    padding: 0 10px;
+                    height: 20px;
+                    color: #474747;
+                    border-right: 1px #ccc solid;
+                }
+                input{
+                    padding-left: 15px;
+                    border: none;
+                    outline: none;
+                    height: 18px;
+                }
+            }
+            .pass{
+                margin-bottom: 10px;
+                display: flex;
+                align-items: center;
+                 padding: 0 10px;
+                 height: 48px;
+                 border: 1px #ccc solid;
+                 span{
                     padding: 0 10px;
                     height: 20px;
                     color: #474747;

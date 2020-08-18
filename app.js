@@ -853,7 +853,29 @@ let good = [{
 
     }
 ]
+let userArr = [{
+    user:'13766345195',
+    pass:'462355ff'
+}]
 app.get('/nav', (req, res) => {
+    res.json(indexData)
+})
+app.get('/login', (req, res) => {
+    let user = req.query.user;
+    let pass = req.query.pass;
+    if(userArr.some(item =>item.user === user && item.pass === pass)){
+        res.json({
+            code:1,
+            msg:'登陆成功'
+        })
+    }else{
+        res.json({
+            code:0,
+            msg:'账号或密码错误'
+        })
+    }
+})
+app.get('/reg', (req, res) => {
     res.json(indexData)
 })
 app.get('/part', (req, res) => {
